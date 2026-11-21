@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="AIM: newsroom automation that writes, checks and fixes, then waits for you">
+  <rect width="1280" height="320" rx="20" fill="#161616"/>
+  <g transform="translate(150 84) scale(0.2985)">
+    <polygon fill="#ffffff" points="418,12 418,240 182,620 12,620"/>
+    <polygon fill="#ffffff" points="452,12 452,240 688,620 857,620"/>
+    <polygon fill="#ea332f" points="435,306 638,665 435,557 232,665"/>
+  </g>
+  <g font-family="Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" fill="#ffffff">
+    <text x="470" y="170" font-size="104" font-weight="800" letter-spacing="-2">AIM</text>
+    <text x="474" y="222" font-size="30" font-weight="500" fill="#c6c6c6">Newsroom automation that writes, checks and fixes,</text>
+    <text x="474" y="262" font-size="30" font-weight="500" fill="#c6c6c6">then waits for you.</text>
+  </g>
+</svg>
